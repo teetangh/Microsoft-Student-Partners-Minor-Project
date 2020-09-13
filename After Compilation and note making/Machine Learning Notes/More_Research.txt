@@ -1,0 +1,29 @@
+Dear Student,
+Hope you're doing well, below are the links and the files for recent classes please have a look.
+K-Means: https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
+
+KNN: https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+
+Mathematics of SVM: https://www.cs.cmu.edu/~atalwalk/teaching/winter17/cs260/lectures/lec11.pdf
+
+SVM: https://medium.com/@ankitnitjsr13/math-behind-support-vector-machine-svm-5e7376d0ee4d
+
+Decision Tree: https://www.saedsayad.com/decision_tree.htm
+
+Guid to deal with text data: https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+
+Fundamentals of BOW: https://medium.com/analytics-vidhya/fundamentals-of-bag-of-words-and-tf-idf-9846d301ff22
+
+Intro to NLP: https://heartbeat.fritz.ai/nlp-chronicles-intro-to-nlp-with-nltk-b2c369fbb9a7
+
+NLP: https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
+
+Linear Regression :https://medium.com/deep-math-machine-learning-ai/chapter-1-complete-linear-regression-with-math-25b2639dde23
+
+
+Linear Regression :https://medium.com/deep-math-machine-learning-ai/chapter-1-2-gradient-descent-with-math-d4f2871af402
+
+
+Logistic Regression : https://towardsdatascience.com/demystifying-logistic-regression-ee24c1104d45 
+
+Test Classification: https://drive.google.com/file/d/14LVNayzcVGtY8iP8OmVzBNvkhKI-p600/view?usp=sharing
