@@ -1,4 +1,4 @@
-# Microsoft-Student-Partners-Machine-Learning-Internship
+# Microsoft-Student-Partners-Minor-Project
 
 - Contains Basic Study Material 
 - Conatins MINOR PROJECT
